@@ -2,7 +2,7 @@ import random
 import telebot
 from telebot import types
 bot = telebot.TeleBot('1618658462:AAHJMhWiQtofdHLE0tFpAwdD8c6U6bxt1Yo')
- 
+
  
 pine_dreams =   """ 
 ----------------------------------------------------
